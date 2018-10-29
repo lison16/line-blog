@@ -1,3 +1,3 @@
 # lison-blog
 
-![CRAN](https://img.shields.io/cran/l/devtools.svg)
+![CRAN](https://img.shields.io/packagist/l/doctrine/orm.svg)
